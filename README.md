@@ -1,3 +1,4 @@
+![logo](https://github.com/PradnyaGhodke0110/PradnyaGhodke0110/blob/main/I'm%20Pradnya%20(1).png)
 <h1 align="center">Hi 👋, I'm Pradnya Ghodke</h1>
 <h3 align="center">A passionate IT Engineering student from G. h.Raisoni College of Engineering and Technology,Pune.</h3>
 <img align="right" alt="coding" width="400" src="https://tse1.explicit.bing.net/th?id=OIP.v-fD7Gm_N59ipd5qNKzcXQHaFj&pid=Api&P=0">
