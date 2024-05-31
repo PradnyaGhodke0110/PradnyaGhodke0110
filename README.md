@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://tse1.explicit.bing.net/th?id=OIP.v-fD7Gm_N59ipd5qNKzcXQHaFj&pid=Api&P=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradnyaghodke0110&label=Profile%20views&color=0e75b6&style=flat" alt="pradnyaghodke0110" /> </p>
 
-- 🌱 I’m currently learning **Java,C,C++,Data Structure.**
+- 🌱 My technical skills include **Java,C++,Data Structure,DBMS,Html,Css.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pradnya-ghodke-2a801923a](https://www.linkedin.com/in/pradnya-ghodke-2a801923a)
 
